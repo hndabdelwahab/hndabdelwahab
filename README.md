@@ -1,5 +1,5 @@
 👋 Hi, I’m @hndabdelwahab
-- 👀 I’m interested in **web development**, **data science**, and **open-source contributions**and "Data analysis".
+- 👀 I’m interested in **ERP Implimantaion** **Odoo Development** **web development**, **data science**, and **open-source contributions**and "Data analysis".
 - 🌱 I’m currently learning **BI**, **Machine Learning**, and **cloud technologies**.
 - 💞️ I’m looking to collaborate on **projects related to healthcare technology** and **data visualization**.
 - 📫 How to reach me: through [LinkedIn](https://www.linkedin.com/in/hind-abdelwahab-291340119/).
